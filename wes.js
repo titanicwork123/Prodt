@@ -50,4 +50,4 @@ if (message.content.startsWith(adminprefix + 'st')) {
 
 });
 
-client.login('Mzg1NDcxOTk5OTgxNTE4ODQ4.DrsvNw.fRMJMNewAeK8nZzDJ_L9OLL_Bgs');
+client.login('Mzg1NDcxOTk5OTgxNTE4ODQ4.DruX0w.Uylh5yRXvoME7h3gSos4aUIA_oU');
